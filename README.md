@@ -2,8 +2,8 @@
 
 [WIKI](https://fasttext.cc/docs/en/pretrained-vectors.html) <br>
 [VECTOR](https://fasttext.cc/docs/en/crawl-vectors.html)
-### open file vectors_fast_text_to_spacy_model.py and edit
-[LANGUAGE] = example: "vi"
+### Open file vectors_fast_text_to_spacy_model.py and edit
+[LANGUAGE] = example: "vi" <br>
 [FILE_WORD2VEC] = "./data/word2vec.txt"
 
 ## Type in the terminal :
