@@ -17,7 +17,7 @@ After that, you must type in the terminal: <br>
 
 And then you will have a "zip" file.
 
-<code> pip install /path/to/pt_example_model-1.0.0.tar.gz </code>
+<code> pip install /path/to/vi_spacy_model-1.0.0.tar.gz </code>
 
 ## Some model has trained spacy
 
