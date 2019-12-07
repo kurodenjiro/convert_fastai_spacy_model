@@ -11,7 +11,7 @@
 
 It will take about 10 minutes to finish, depending on the size of the word2vec file. In the script I made the print of the word, so that you can follow.
 
-After that, you must type in the terminal:
+After that, you must type in the terminal: \n
 <code> python -m spacy package ./models/new_nlp/ ./my_models/ </code>
 <code> python setup.py sdist </code>
 
