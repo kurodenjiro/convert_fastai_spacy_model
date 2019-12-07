@@ -1,6 +1,6 @@
 # Download model here
 
-[WIKI](https://fasttext.cc/docs/en/pretrained-vectors.html)
+[WIKI](https://fasttext.cc/docs/en/pretrained-vectors.html) <br>
 [VECTOR](https://fasttext.cc/docs/en/crawl-vectors.html)
 ### open file vectors_fast_text_to_spacy_model.py and edit
 [LANGUAGE] = example: "vi"
@@ -11,9 +11,9 @@
 
 It will take about 10 minutes to finish, depending on the size of the word2vec file. In the script I made the print of the word, so that you can follow.
 
-After that, you must type in the terminal: \n
-<code> python -m spacy package ./models/new_nlp/ ./my_models/ </code>
-<code> python setup.py sdist </code>
+After that, you must type in the terminal: <br>
+<code> python -m spacy package ./models/new_nlp/ ./my_models/ </code><br>
+<code> python setup.py sdist </code><br>
 
 And then you will have a "zip" file.
 
