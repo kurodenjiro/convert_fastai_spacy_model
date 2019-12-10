@@ -21,5 +21,5 @@ And then you will have a "zip" file.
 
 ## Some model has trained spacy
 
-[Vi Spacy Model Fastai](https://drive.google.com/file/d/1z99svOYplV0iP4IKZjxdg3tVP_TnHDc1/view?usp=sharing) <br>
+[Vi Spacy Model Fasttext](https://drive.google.com/file/d/1z99svOYplV0iP4IKZjxdg3tVP_TnHDc1/view?usp=sharing) <br>
 [Vi Spacy Model Wiki](https://drive.google.com/file/d/1Dq9jbB1f9eYbJUnYl_Y4Xtc5448qu6df/view?usp=sharing) <br>
